@@ -1,0 +1,19 @@
+.about h1 {
+    color: rgb(114, 7, 245);
+    margin-left: 200px
+}
+
+.about h3 {
+    margin-left: 20px;
+}
+
+.about p {
+    margin-left: 30px;
+    color: black;
+}
+
+.photo img {
+    margin-left: 300px;
+    height: 300px;
+    width: 450px;
+}
